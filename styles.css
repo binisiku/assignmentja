@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#rocketCanvas {
+    border: 2px solid black;
+    margin-top: 20px;
+    background-color: #87CEEB; /* Sky-blue background */
+}
+
+#countdownDisplay {
+    font-size: 2em;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+    margin-top: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
